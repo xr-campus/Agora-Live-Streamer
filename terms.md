@@ -1,4 +1,4 @@
-# 　Agora Live Streamer　利用規約
+# Agora Live Streamer　利用規約
 このTHETAプラグインアプリケーションを使用する前に、この利用規約をお読みください。
 
 ## 第１条（利用規約の適用）
