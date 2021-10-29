@@ -5,6 +5,7 @@ This plug-in does live streaming using [Agora.io](https://www.agora.io/en/) serv
 We used [Open Live](https://github.com/AgoraIO/Basic-Video-Broadcasting/tree/master/OpenLive-Android) as a reference project.
 
 ## Prerequisites
+
 - Wifi Client Mode
 - Web browser
   
@@ -39,9 +40,10 @@ Because of settings of high frame rate and/or high bit rate, a sudden stop of a 
 
 
 ## Attention
+
 For a stable streaming, you should set the frame rate less than 15fps and bit rate less than 2000kbps.
 
 
 ## Contact
 
-inc_xr_ops2@ml.tis.co.jp
+xrcampus@tis.co.jp
