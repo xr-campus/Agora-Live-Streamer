@@ -27,6 +27,7 @@ We used [Open Live](https://github.com/AgoraIO/Basic-Video-Broadcasting/tree/mas
 - Bit rate (REQUIRED)
 - Width (REQUIRED)
 - Height (REQUIRED)
+- Recording volume(REQUIRED)
 - Agora Token *1
 - Auto restart (OPTIONAL) *2
 
@@ -42,5 +43,4 @@ For a stable streaming, you should set the frame rate less than 15fps and bit ra
 
 
 ## Contact
-
 xrcampus@tis.co.jp
