@@ -43,4 +43,4 @@ For a stable streaming, you should set the frame rate less than 15fps and bit ra
 
 ## Contact
 
-inc_xr_ops2@ml.tis.co.jp
+xrcampus@tis.co.jp
