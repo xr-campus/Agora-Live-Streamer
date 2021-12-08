@@ -18,6 +18,7 @@ We used [Open Live](https://github.com/AgoraIO/Basic-Video-Broadcasting/tree/mas
 - Press the "Start" button to start a new streaming.
 - Statistics of current streaming will be displayed while streaming.
 - Press the "Stop" botton to stop the streaming. 
+- If you push the shutter button on the theta, this plug-in will start a new streaming with the previous setting.
 
 ## Settings
 
